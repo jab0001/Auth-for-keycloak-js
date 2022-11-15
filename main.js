@@ -31,7 +31,6 @@ if (form) {
 
 const timerSms = document.querySelector('.js-timer');
 const timerBtn = document.querySelector('.js-timer-btn');
-// login
 
 
 
